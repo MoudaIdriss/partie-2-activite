@@ -1,0 +1,38 @@
+<style type="text/css"> 
+
+      /* Styles de base */
+      body {
+        background: url('assets/img/fond.jpg') no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
+		text-decoration:bold;
+		text-align:justify;
+		font-family: Arial,Times New Roman,Verdana;
+		font-weight:normal;
+      }
+		.carousel-inner {
+			border: 5px solid white;
+			box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+			}
+		.titrecrousel{color:wait;}
+		.jumbotron{ 
+				margin-top: 30px;
+        background: rgba(255, 255, 255, 0.5);
+		}	
+        .from-group{padding-bottom:10px;
+		      padding-top:10px;}		
+		.well{padding:3px;
+		      background-color:#ccc;}
+		.btn {
+			width: 50px;
+			height: 50px;
+			border-radius: 25px;
+			padding-top: 10px;
+		}
+		@media screen and (min-width: 768px) {
+		 
+		  }
+    </style>
+                     
